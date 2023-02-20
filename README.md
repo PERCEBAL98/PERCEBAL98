@@ -1,16 +1,22 @@
-### Hi there 👋
-
-<!--
-**PERCEBAL98/PERCEBAL98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h1> 👋🏽 Hola, me llamo David 👨🏽‍💻</h1>
+<h3> Objetivos: </h3>
+  <ul>
+    <li> 🛣️ Terminar el cusro de Desarollo de Aplicaciones Multiplataforma (DAM). </li>
+    <li> ⬆️ Mejorar mi nivel de ingles. </li>
+  </ul>
+<hr>
+<h3> Lista de habilidades: </h3>
+  <ul>
+    <li> 📄 Me gusta trabajar en html, csv, en general diseño de páginas. </li>
+    <li> 📋 El trabajo con los datos tambien me llaman la atención. </li>
+  </ul>
+<hr>
+<h3> Títulos: </h3>
+  <ul>
+    <li> 👨🏽‍🎓 Realice Bachillerato en IES Clara Campoamor Rodriguez. </li>
+    <li> 🏫 Mi nivel de ingles se debe acercar al b1 ya que curse todo el colegio en modalidad bilingue.  </li>
+    <li> 🪪 Cuento con el carnet de conducir. </li>
+  </ul>
+<hr>
+<h4> Puedes contactarme enviandome un mensaje al correo: </h4>
+<p> 📧 davidferrermoya@gmail.com </p>
