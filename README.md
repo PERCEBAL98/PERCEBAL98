@@ -1,5 +1,5 @@
 <h1> 👋🏽 Hola, me llamo David 👨🏽‍💻</h1>
-<h3> Objetivos: </h3>
+<h3> Mis objetivos: </h3>
   <ul>
     <li> 🛣️ Terminar el cusro de Desarollo de Aplicaciones Multiplataforma (DAM). </li>
     <li> ⬆️ Mejorar mi nivel de ingles. </li>
