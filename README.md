@@ -8,7 +8,7 @@
 <h3> Lista de habilidades: </h3>
   <ul>
     <li> 📄 Me gusta trabajar en html, csv, en general diseño de páginas. </li>
-    <li> 📋 El trabajo con los datos tambien me llaman la atención. </li>
+    <li> 📋 El trabajo con las bases de datos. </li>
   </ul>
 <hr>
 <h3> Títulos: </h3>
